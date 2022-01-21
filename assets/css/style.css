@@ -26,7 +26,7 @@ Body{
 .inner{
     width:0px;
     height:40px;
-    Background:rgb(115, 248, 115);
+    Background:#ffffff;
     Animation:loading 3.2s infinite linear;
     
     Position:absolute;
@@ -35,7 +35,7 @@ Body{
 @keyframes loading{
     
     100%{
-        background: rgb(115, 248, 115);
+        background: rgb(3, 247, 247);
         width:245px;
     }
 }
